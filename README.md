@@ -1,6 +1,6 @@
 # shutdown pc
 
-[![shutdown pc](gett-detail.png)](https://github.com/ensoftonic/shutdown.pc)
+[![shutdown pc](gett-detail.png)](https://computersolve.com/shutdown-computer/)
 
 This wikiHow teaches you the safest way to shut down any version of Windows. There are many ways to shut your PC down safely, but the most common way to do so is using the Shut Down option in your Start menu. To avoid data loss, make sure you've saved all of your open files before shutting down your PC.
 
